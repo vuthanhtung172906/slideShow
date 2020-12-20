@@ -1,7 +1,7 @@
 {
   "name": "slideshow",
   "version": "0.1.0",
-  "homepage": "http://vuthanhtung172906.github.io/my-app",
+  "homepage": "http://vuthanhtung172906.github.io/slideShow/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
